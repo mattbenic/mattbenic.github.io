@@ -4,7 +4,7 @@
     "timestamp": 1502257810365,
     "version": 22,
     "name": "KKC Apps",
-    "icon": "https://cyestcorp-my.sharepoint.com/personal/mbenic_bscglobal_com/Documents/KKCSideQuest/Icons/kkcapps.png",
+    "icon": "kkcapps.png",
     "address": "https://raw.githubusercontent.com/mattbenic/mattbenic.github.io/master/KKCSidequestRepo/",
     "description": "Kids Kicking Cancer VR Apps."
   },
@@ -30,7 +30,7 @@
             "summary": "Pain extraction through guided meditation.",
             "webSite": "",
             "added": 1560440707917,
-            "icon": "https://cyestcorp-my.sharepoint.com/personal/mbenic_bscglobal_com/Documents/KKCSideQuest/Icons/kkcpainextraction.png",
+            "icon": "kkcpainextraction.png",
             "packageName": "com.bsc.kkcpainextraction",
             "lastUpdated": 1560440707917
         }
