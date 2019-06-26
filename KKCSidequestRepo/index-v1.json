@@ -5,8 +5,8 @@
     "version": 22,
     "name": "KKC Apps",
     "icon": "kkcapps.png",
-    "address": "https://buwatfbrlczzvoxpzjjt7w-on.drv.tw/KKCSideQuest/",
-    "description": "123 Test Kids Kicking Cancer VR Apps."
+    "address": "https://mattbenic.github.io/KKCSidequestRepo/",
+    "description": "Kids Kicking Cancer VR Apps."
   },
   "requests": 
   {
@@ -22,12 +22,12 @@
             ],
             "suggestedVersionName": "0.0.2",
             "suggestedVersionCode": "2",
-            "description": "Test 123 Pain extraction through guided meditation.",
+            "description": "Pain extraction through guided meditation.",
             "issueTracker": "",
             "license": "COMMERCIAL",
-            "name": "123 KKC Pain Extraction",
+            "name": "KKC Pain Extraction",
             "sourceCode": "",
-            "summary": "Test 123 Pain extraction through guided meditation.",
+            "summary": "Pain extraction through guided meditation.",
             "webSite": "",
             "added": 1560440707917,
             "icon": "kkcpainextraction.png",
