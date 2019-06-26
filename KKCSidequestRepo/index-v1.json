@@ -4,8 +4,8 @@
     "timestamp": 1502257810365,
     "version": 22,
     "name": "KKC Apps",
-    "icon": "https://raw.githubusercontent.com/mattbenic/mattbenic.github.io/master/KKCSidequestRepo/Icons/kkcapps.png",
-    "address": "https://mattbenic.github.io/KKCSidequestRepo/",
+    "icon": "kkcapps.png",
+    "address": "https://raw.githubusercontent.com/mattbenic/mattbenic.github.io/master/KKCSidequestRepo/",
     "description": "Kids Kicking Cancer VR Apps."
   },
   "requests": 
@@ -30,7 +30,7 @@
             "summary": "Pain extraction through guided meditation.",
             "webSite": "",
             "added": 1560440707917,
-            "icon": "https://raw.githubusercontent.com/mattbenic/mattbenic.github.io/master/KKCSidequestRepo/Icons/kkcpainextraction.png",
+            "icon": "kkcpainextraction.png",
             "packageName": "com.bsc.kkcpainextraction",
             "lastUpdated": 1560440707917
         }
@@ -39,7 +39,7 @@
         "com.bsc.kkcpainextraction": [
             {
                 "added": 1560440707917,
-                "apkName": "https://doc-0g-1s-docs.googleusercontent.com/docs/securesc/5kg9oht0au2arc86pt49977e3ao1phdc/jfcbnp88dcrvvo6f1o0f1tn3dulul9hf/1561536000000/07314461016926642269/07314461016926642269/1289CfJT8jEf9nzLhQyEA-o3BNKvHym6O?e=download&nonce=3juj5jva877gi&user=07314461016926642269&hash=1cpgbo06adlucticggb0srp1baaoclpt",
+                "apkName": "https://raw.githubusercontent.com/mattbenic/mattbenic.github.io/master/KKCSidequestRepo/KKC_PainVisualizationProject.apk",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "16",
